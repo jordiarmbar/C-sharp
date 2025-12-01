@@ -1,0 +1,114 @@
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.AssemblyReference.cache
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormCatalogo.resources
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormMain.resources
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormStock.resources
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormVentas.resources
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.GenerateResource.cache
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfoInputs.cache
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfo.cs
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.CoreCompileInputs.cache
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.exe
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.deps.json
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.runtimeconfig.json
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.dll
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.pdb
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\Fruteria.F1A49A9B.Up2Date
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.dll
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\refint\FruteriaApp.dll
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.pdb
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.genruntimeconfig.cache
+F:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\ref\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.exe
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.deps.json
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.runtimeconfig.json
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.AssemblyReference.cache
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormCatalogo.resources
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormMain.resources
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormStock.resources
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormVentas.resources
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.GenerateResource.cache
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfoInputs.cache
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfo.cs
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.CoreCompileInputs.cache
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\Fruteria.F1A49A9B.Up2Date
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\refint\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.genruntimeconfig.cache
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\ref\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\API REST FINAL\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormInformes.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.exe
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.deps.json
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.runtimeconfig.json
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.AssemblyReference.cache
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormCatalogo.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormInformes.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormMain.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormStock.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormVentas.resources
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.GenerateResource.cache
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfoInputs.cache
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfo.cs
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.CoreCompileInputs.cache
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\Fruteria.F1A49A9B.Up2Date
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\refint\FruteriaApp.dll
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.genruntimeconfig.cache
+D:\Interfaces\API REST FINAL\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\ref\FruteriaApp.dll
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.exe
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.deps.json
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.runtimeconfig.json
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.AssemblyReference.cache
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormCatalogo.resources
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormInformes.resources
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormMain.resources
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormStock.resources
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormVentas.resources
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.GenerateResource.cache
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfoInputs.cache
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfo.cs
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.CoreCompileInputs.cache
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\Fruteria.F1A49A9B.Up2Date
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.dll
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\refint\FruteriaApp.dll
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.pdb
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.genruntimeconfig.cache
+D:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\ref\FruteriaApp.dll
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.exe
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.deps.json
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.runtimeconfig.json
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.dll
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\FruteriaApp.pdb
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.AssemblyReference.cache
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormCatalogo.resources
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormInformes.resources
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormMain.resources
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormStock.resources
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\API_REST_FINAL.FormVentas.resources
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.GenerateResource.cache
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfoInputs.cache
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.AssemblyInfo.cs
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.csproj.CoreCompileInputs.cache
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\Fruteria.F1A49A9B.Up2Date
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.dll
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\refint\FruteriaApp.dll
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.pdb
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\FruteriaApp.genruntimeconfig.cache
+F:\Interfaces\Fruteria + API REST\FruteriaApp\API REST FINAL\obj\Debug\net8.0-windows\ref\FruteriaApp.dll
