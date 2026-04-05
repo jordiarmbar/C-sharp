@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalculadoraDocFX</name>
+    </assembly>
+    <members>
+        <member name="T:CalculadoraDocFX.Calculadora">
+            <summary>
+            Clase principal que contiene la lógica de una calculadora básica y un menú interactivo.
+            </summary>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.LeerNumero(System.String)">
+            <summary>
+            Solicita un número al usuario y valida la entrada.
+            </summary>
+            <param name="mensaje">Mensaje que se mostrará en consola.</param>
+            <returns>El número entero introducido por el usuario.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.Sumar(System.Int32,System.Int32)">
+            <summary>
+            Realiza la suma de dos números enteros.
+            </summary>
+            <param name="numero1">Primer sumando.</param>
+            <param name="numero2">Segundo sumando.</param>
+            <returns>La suma de los dos números.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.Restar(System.Int32,System.Int32)">
+            <summary>
+            Realiza la resta de dos números enteros.
+            </summary>
+            <param name="numero1">Minuendo.</param>
+            <param name="numero2">Sustraendo.</param>
+            <returns>La diferencia resultante.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.Multiplicacion(System.Int32,System.Int32)">
+            <summary>
+            Realiza la multiplicación de dos números enteros.
+            </summary>
+            <param name="numero1">Primer factor.</param>
+            <param name="numero2">Segundo factor.</param>
+            <returns>El producto de la operación.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.Division(System.Int32,System.Int32)">
+            <summary>
+            Divide el primer número entre el segundo, controlando la división por cero.
+            </summary>
+            <param name="numero1">Dividendo.</param>
+            <param name="numero2">Divisor.</param>
+            <returns>El cociente o NaN si el divisor es cero.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.Potencia(System.Int32,System.Int32)">
+            <summary>
+            Calcula la potencia de un número base elevado a un exponente.
+            </summary>
+            <param name="numero1">Base.</param>
+            <param name="numero2">Exponente.</param>
+            <returns>Resultado de la potencia.</returns>
+        </member>
+        <member name="M:CalculadoraDocFX.Calculadora.RaizCuadrada(System.Int32)">
+            <summary>
+            Calcula la raíz cuadrada de un número, controlando valores negativos.
+            </summary>
+            <param name="numero1">Número para calcular la raíz.</param>
+            <returns>La raíz cuadrada o NaN si es negativo.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.exe
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.deps.json
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.runtimeconfig.json
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.dll
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.pdb
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.AssemblyInfoInputs.cache
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.AssemblyInfo.cs
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.csproj.CoreCompileInputs.cache
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.dll
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\refint\CalculadoraDocFX.dll
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.pdb
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.genruntimeconfig.cache
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\ref\CalculadoraDocFX.dll
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\bin\Debug\net10.0\CalculadoraDocFX.xml
+D:\Interfaces\CalculadoraDocFX\CalculadoraDocFX\obj\Debug\net10.0\CalculadoraDocFX.xml
